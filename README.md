@@ -50,13 +50,16 @@ Deep Research Arxiv is to assist researchers in conducting comprehensive literat
 
 ## File Structure
 ```
-├── app.py                  # Main Streamlit application
+├── app.py                 
 ├── research
-│   └── arxiv_research.py   # Module handling Arxiv API and review generation
-├── logo_a.png              # Repository logo
-├── banner.png              # Banner image for the app
-└── README.md               # This file
-```
+│   └── arxiv_research.py   
+├── logo_a.png             
+├── banner.png             
+├── LICENSE                
+├── requirements.txt       
+└── README.md 
+```         
+
 
 
 ## License
