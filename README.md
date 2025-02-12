@@ -1,6 +1,10 @@
 # Deep Research Arxiv
 
-![Logo](logo_a.png)
+<p align="center">
+    <img src="logo_a.png" width="200" alt="Open DeepResearch Logo">
+    <br>
+    <a href="https://huggingface.co/spaces/AlignAI/Open-Deep-Research">Try the app on Hugging Face Spaces</a>
+</p>
 
 Deep Research Arxiv is a Streamlit-powered application designed to assist researchers in conducting comprehensive literature reviews using the Arxiv repository. This tool searches, analyzes, and synthesizes relevant papers into a cohesive literature review formatted in the Nature journal style.
 
