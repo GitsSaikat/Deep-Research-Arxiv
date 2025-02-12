@@ -1,0 +1,3 @@
+streamlit 
+aiohttp 
+nest_asyncio
