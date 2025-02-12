@@ -57,7 +57,7 @@ Deep Research Arxiv is to assist researchers in conducting comprehensive literat
 ├── banner.png             
 ├── LICENSE                
 ├── requirements.txt       
-└── README.md 
+└── README.md  
 ```         
 
 
