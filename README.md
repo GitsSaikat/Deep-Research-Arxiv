@@ -6,7 +6,7 @@
     <a href="https://huggingface.co/spaces/AlignAI/Deep-Research-Arxiv">Try the app on Hugging Face Spaces</a>
 </p>
 
-Deep Research Arxiv is to assist researchers in conducting comprehensive literature reviews using the Arxiv repository. This tool searches, analyzes, and synthesizes relevant papers into a cohesive literature review formatted in the Nature journal style.
+Deep Research Arxiv assists researchers in conducting comprehensive literature reviews using the Arxiv repository. This tool searches, analyzes, and synthesizes relevant papers into a cohesive literature review formatted in the Nature journal style.
 
 ## Features
 - **Literature Search**: Query the Arxiv API to retrieve relevant research papers.
