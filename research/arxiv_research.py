@@ -11,7 +11,7 @@ ARXIV_API_URL = "http://export.arxiv.org/api/query"
 
 # Global API Key (You'll set this in app.py)
 OPENROUTER_API_KEY = ""
-DEFAULT_MODEL = "google/gemini-2.0-flash-thinking-exp-1219:free"
+DEFAULT_MODEL = "google/gemini-2.5-pro-exp-03-25:free"
 
 FIXED_PAPER_COUNT = 70  
 async def call_openrouter_async(session, messages, model=DEFAULT_MODEL):
